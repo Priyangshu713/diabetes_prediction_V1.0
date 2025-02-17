@@ -31,7 +31,7 @@ export default function AboutUs() {
             <TeamMemberCard
               name="Priyangshu Dutta"
               role="Backend Developer & ML Engineer"
-              avatarUrl="/assets/priyangshu.jpg?auto=format&fit=crop&q=80&w=200&h=200"
+              avatarUrl="/priyangshu.jpg?auto=format&fit=crop&q=80&w=200&h=200"
 
               skills={[
                 { icon: <Database className="w-4 h-4" />, label: "Backend Development" },
@@ -48,7 +48,7 @@ export default function AboutUs() {
             <TeamMemberCard
               name="Tarak nath Jana"
               role="Frontend Developer"
-              avatarUrl="/assets/Tarak.png?auto=format&fit=crop&q=80&w=200&h=200"
+              avatarUrl="/Tarak.png?auto=format&fit=crop&q=80&w=200&h=200"
 
               skills={[
                 { icon: <Code className="w-4 h-4" />, label: "Frontend Development" },
