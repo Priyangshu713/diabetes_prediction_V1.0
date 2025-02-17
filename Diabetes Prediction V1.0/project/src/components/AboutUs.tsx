@@ -31,7 +31,7 @@ export default function AboutUs() {
             <TeamMemberCard
               name="Priyangshu Dutta"
               role="Backend Developer & ML Engineer"
-              avatarUrl="/assets/priyangshu.jpg?auto=format&fit=crop&q=80&w=200&h=200"
+              avatarUrl="https://github.com/Priyangshu713/diabetes_prediction_V1.0/blob/c28822e1521d239ca6e856dbf89af9b480d2ba10/Diabetes%20Prediction%20V1.0/project/assets/priyangshu.jpg?auto=format&fit=crop&q=80&w=200&h=200"
               skills={[
                 { icon: <Database className="w-4 h-4" />, label: "Backend Development" },
                 { icon: <Brain className="w-4 h-4" />, label: "Machine Learning" },
