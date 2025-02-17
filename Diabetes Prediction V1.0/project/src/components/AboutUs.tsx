@@ -47,7 +47,7 @@ export default function AboutUs() {
             <TeamMemberCard
               name="Tarak nath Jana"
               role="Frontend Developer"
-              avatarUrl="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=200&h=200"
+              avatarUrl="Diabetes Prediction V1.0/project/assets/Tarak.png?auto=format&fit=crop&q=80&w=200&h=200"
               skills={[
                 { icon: <Code className="w-4 h-4" />, label: "Frontend Development" },
                 { icon: <Database className="w-4 h-4" />, label: "API Integration" },
