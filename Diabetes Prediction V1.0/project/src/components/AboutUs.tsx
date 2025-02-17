@@ -31,32 +31,32 @@ export default function AboutUs() {
             <TeamMemberCard
               name="Priyangshu Dutta"
               role="Backend Developer & ML Engineer"
-              avatarUrl="https://github.com/Priyangshu713/diabetes_prediction_V1.0/blob/c28822e1521d239ca6e856dbf89af9b480d2ba10/Diabetes%20Prediction%20V1.0/project/assets/priyangshu.jpg?auto=format&fit=crop&q=80&w=200&h=200"
+              avatarUrl="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&q=80&w=200&h=200"
               skills={[
                 { icon: <Database className="w-4 h-4" />, label: "Backend Development" },
                 { icon: <Brain className="w-4 h-4" />, label: "Machine Learning" },
                 { icon: <Palette className="w-4 h-4" />, label: "UI Design" }
               ]}
               socialLinks={[
-                { icon: <Github className="w-5 h-5" />, url: "https://github.com/yourusername" },
-                { icon: <Linkedin className="w-5 h-5" />, url: "https://linkedin.com/in/yourusername" },
-                { icon: <Mail className="w-5 h-5" />, url: "mailto:your.email@example.com" }
+                { icon: <Github className="w-5 h-5" />, url: "https://github.com/Priyangshu713" },
+                { icon: <Linkedin className="w-5 h-5" />, url: "https://www.linkedin.com/in/priyangshu-dutta-065202303/" },
+                { icon: <Mail className="w-5 h-5" />, url: "priyangshudutta2003@gmail.com" }
               ]}
             />
 
             <TeamMemberCard
               name="Tarak nath Jana"
               role="Frontend Developer"
-              avatarUrl="Diabetes Prediction V1.0/project/assets/Tarak.png?auto=format&fit=crop&q=80&w=200&h=200"
+              avatarUrl="https://avatars.githubusercontent.com/u/140452004?v=4?auto=format&fit=crop&q=80&w=200&h=200"
               skills={[
                 { icon: <Code className="w-4 h-4" />, label: "Frontend Development" },
                 { icon: <Database className="w-4 h-4" />, label: "API Integration" },
                 { icon: <Palette className="w-4 h-4" />, label: "UI Implementation" }
               ]}
               socialLinks={[
-                { icon: <Github className="w-5 h-5" />, url: "https://github.com/yourusername" },
-                { icon: <Linkedin className="w-5 h-5" />, url: "https://linkedin.com/in/yourusername" },
-                { icon: <Mail className="w-5 h-5" />, url: "mailto:your.email@example.com" }
+                { icon: <Github className="w-5 h-5" />, url: "https://github.com/tarakNathJ/" },
+                { icon: <Linkedin className="w-5 h-5" />, url: "https://www.linkedin.com/in/tarak-nath-jana-7411a0301/" },
+                { icon: <Mail className="w-5 h-5" />, url: "janatarak739@gmail.com" }
               ]}
             />
           </div>
