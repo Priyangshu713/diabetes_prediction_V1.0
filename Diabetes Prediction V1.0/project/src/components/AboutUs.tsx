@@ -39,7 +39,7 @@ export default function AboutUs() {
               ]}
               socialLinks={[
                 { icon: <Github className="w-5 h-5" />, url: "https://github.com/Priyangshu713" },
-                { icon: <Linkedin className="w-5 h-5" />, url: "https://www.linkedin.com/in/priyangshu-dutta-065202303/" },
+                { icon: <Linkedin className="w-5 h-5" />, url: "https://www.linkedin.com/in/priyangshu-dutta-/" },
                 { icon: <Mail className="w-5 h-5" />, url: "priyangshudutta2003@gmail.com" }
               ]}
             />
